@@ -12,7 +12,9 @@
  
 <h2>What is the purpose of this document</h2>
 
-<p>The purpose of this document is to write the game description and the game rules so that we will have a starting point to work from on the project. </p>
+<p>The purpose of this document is to write the game description and the game rules so that we will have a starting point to work from on the project. 
+It is also for the product owner to be aware of the intended direction of the product, in case there are any adjustments that he may want to make. 
+</p>
 
  
 
