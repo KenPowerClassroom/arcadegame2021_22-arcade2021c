@@ -34,4 +34,6 @@
 
 <h2>Game description</h2>
 
-2D Asteroids+ arrow keys-controlled game, which brings the user into a multiverse of Asteroids’ worlds including new power ups, galaxies to explore, women to chat, sightseeing to do and more! 
+<p>2D Asteroids+ arrow keys-controlled game, which brings the user into a multiverse of Asteroids’ worlds including new power ups, galaxies to explore, sightseeing to do and more! </p>
+
+<p> The user will be thrown inside the cockpit of a space fighter ship, with no assistance from Earth, the pilot must fight his way home through enemy territory. </p>
