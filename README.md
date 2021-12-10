@@ -32,6 +32,6 @@
 
  
 
-Game description 
+<h2>Game description</h2>
 
 2D Asteroids+ arrow keys-controlled game, which brings the user into a multiverse of Asteroids’ worlds including new power ups, galaxies to explore, women to chat, sightseeing to do and more! 
