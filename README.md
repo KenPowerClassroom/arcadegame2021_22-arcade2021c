@@ -1,5 +1,5 @@
 <h1>S/W Eng. Group Project 1 - Arcade Game</h1>
-<i>By Emmett Lawlor and Lukas Sumkauskas</i> 
+<b><i>By Emmett Lawlor and Lukas Sumkauskas</i></b>
  
 <h2>Introduction</h2>
 
