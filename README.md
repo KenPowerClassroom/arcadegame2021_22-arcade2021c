@@ -1,11 +1,78 @@
-[![Build and Test](https://github.com/KenPowerClassroom/TankGame/actions/workflows/main.yml/badge.svg)](https://github.com/KenPowerClassroom/TankGame/actions/workflows/main.yml)
+ 
 
-# TankGame
+S/W Eng. Group Project 1 - Arcade Game 
 
-## CI pipleine notes
+By Emmett Lawlor and Lukas Sumkauskas 
+ 
 
-at the moment needs to be built as x86 Debug due to yaml-cpp.lib Need to find away to have release builds of yaml-cpp
+ 
 
-For new project needs to add additional nuget pakacge "Google test adapter"
+ 
 
-Test project need to have string "Test" in it's name
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Introduction 
+
+ 
+
+Who are we 
+
+We are a pair of game development students. 
+
+ 
+
+What is the purpose of this document 
+
+The purpose of this document is to write the game description and the game rules so that we will have a starting point to work from on the project.  
+
+ 
+
+Why are we doing this project 
+
+We are doing this project for a multitiude of reasons.  
+
+To get used to working as part of a team and not as a solo programmer/developer. 
+
+To increase programming skills and get used to previously foreign concepts such as pair programming.  
+
+To get used to development procedures, on a fundemental level that will help us when working as teams in the future. Adhering to proper merging procedures as well as testing procedures.  
+
+ 
+
+ 
+
+Game description 
+
+2D Asteroids+ arrow keys-controlled game, which brings the user into a multiverse of Asteroids’ worlds including new power ups, galaxies to explore, women to chat, sightseeing to do and more! 
